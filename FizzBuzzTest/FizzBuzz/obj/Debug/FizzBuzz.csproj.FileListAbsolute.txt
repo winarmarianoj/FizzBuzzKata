@@ -1,0 +1,6 @@
+/home/mariano/Documentos/QUARK ACADEMY/Curso Ingenieria de Software/KataFizzBuzzTest/FizzBuzzTest/FizzBuzz/bin/Debug/FizzBuzz.exe
+/home/mariano/Documentos/QUARK ACADEMY/Curso Ingenieria de Software/KataFizzBuzzTest/FizzBuzzTest/FizzBuzz/bin/Debug/FizzBuzz.pdb
+/home/mariano/Documentos/QUARK ACADEMY/Curso Ingenieria de Software/KataFizzBuzzTest/FizzBuzzTest/FizzBuzz/obj/Debug/FizzBuzz.csprojAssemblyReference.cache
+/home/mariano/Documentos/QUARK ACADEMY/Curso Ingenieria de Software/KataFizzBuzzTest/FizzBuzzTest/FizzBuzz/obj/Debug/FizzBuzz.csproj.CoreCompileInputs.cache
+/home/mariano/Documentos/QUARK ACADEMY/Curso Ingenieria de Software/KataFizzBuzzTest/FizzBuzzTest/FizzBuzz/obj/Debug/FizzBuzz.exe
+/home/mariano/Documentos/QUARK ACADEMY/Curso Ingenieria de Software/KataFizzBuzzTest/FizzBuzzTest/FizzBuzz/obj/Debug/FizzBuzz.pdb
